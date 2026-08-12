@@ -15,7 +15,7 @@ It is highly recommended to run these experiments inside a virtual environment t
 
 ```bash
 # Clone the repository
-git clone https://github.com/Nishanthrajank-2516/genailabprograms
+git clone https://github.com/Nishanthrajank-2516/genai-lab-programs
 
 cd GenAi-and-lab
 
